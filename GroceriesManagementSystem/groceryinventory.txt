@@ -1,0 +1,14 @@
+banana 5 fruit Malaysia 28/08/2022
+apple 4 fruit China 03/09/2022
+chicken 30 meat Malaysia 05/09/2022
+salmon 25 meat Japan 03/09/2022
+broccoli 6 vegetable America 01/09/2022
+carrot 3 vegetable Malaysia 30/08/2022
+muffin 7 cake Malaysia 02/09/2022
+cereal 10 grains America 15/08/2022
+milk 12 dairy India 25/08/2022
+eggs 11 meat Malaysia 30/08/2022
+cheese 15 dairy Germany 4/09/2022
+butter 7 dairy India 05/09/2022
+
+orange 5 Australia vegetable 26/09/2022
